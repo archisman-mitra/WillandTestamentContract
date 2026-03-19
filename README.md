@@ -37,10 +37,7 @@ This smart contract allows a user (the owner) to:
 ## 🚀 Deployed Smart Contract Link
 
 Will and Testament Contract:  
-👉 _Add your deployed contract link here (e.g., Stellar Testnet / Explorer URL)_
-
-Example:
-https://stellar.expert/explorer/testnet/contract/CAHHG6QPUZQFEZKVYUI77MCITBSXPAL5XFJDXUCI6UARTC3PYRIEQKCQ
+👉 https://stellar.expert/explorer/testnet/contract/CAHHG6QPUZQFEZKVYUI77MCITBSXPAL5XFJDXUCI6UARTC3PYRIEQKCQ
 
 <img width="1819" height="852" alt="image" src="https://github.com/user-attachments/assets/132ed28b-bbc0-454b-aeae-02115ba50bf7" />
 ---
