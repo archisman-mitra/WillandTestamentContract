@@ -1,4 +1,4 @@
-# Web 3 Stellar Contract Day1
+# Web 3 Stellar Contract Day 1
 
 # 🧾 Will and Testament Contract (Soroban)
 
