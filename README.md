@@ -1,4 +1,4 @@
-# WillandTestamentContract
+# Web 3 Stellar Contract Day1
 
 # 🧾 Will and Testament Contract (Soroban)
 
